@@ -7,3 +7,5 @@
 /.protocol-mod.proto
 
 /composer.phar
+
+docker-compose.override.yml
