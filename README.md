@@ -4,7 +4,8 @@
 
 | Master  | Develop |
 | ------------- | ------------- |
-| [![Build Status](https://travis-ci.org/byrnedo/php-nats-streaming.svg?branch=master)](https://travis-ci.org/byrnedo/php-nats-streaming)  | [![Build Status](https://travis-ci.org/byrnedo/php-nats-streaming.svg?branch=develop)](https://travis-ci.org/byrnedo/php-nats-streaming)  |
+| [![Build Status](https://travis-ci.org/byrnedo/php-nats-streaming.svg?branch=master)](https://travis-ci.org/byrnedo/php-nats-streaming) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSmartWebDK%2Fphp-nats-streaming.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSmartWebDK%2Fphp-nats-streaming?ref=badge_shield)
+ | [![Build Status](https://travis-ci.org/byrnedo/php-nats-streaming.svg?branch=develop)](https://travis-ci.org/byrnedo/php-nats-streaming)  |
 
 ## Coverage
 
@@ -181,3 +182,6 @@ $c->close();
 
 MIT, see [LICENSE](LICENSE)
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSmartWebDK%2Fphp-nats-streaming.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSmartWebDK%2Fphp-nats-streaming?ref=badge_large)
